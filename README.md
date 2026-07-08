@@ -4,6 +4,8 @@ A clean, modern, single-page marketing site for a healthcare/family clinic - bui
 
 **Live site:** https://edkhng-ai.github.io/Edmund/
 
+![Willow Creek Family Clinic screenshot](assets/screenshot.png)
+
 ## Features
 
 - Sticky, mobile-friendly navbar with smooth-scroll anchor navigation
